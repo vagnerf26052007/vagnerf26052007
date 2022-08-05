@@ -1,0 +1,4 @@
+- Meu nome é Vagner Frigo
+- Meu email de contato vagner.frigo.@escola.pr.gov.br
+- Estou interresado em aprender novas linguagens
+- Estou reecentemente aprendendo a linguagen JavaScript e Scratch
